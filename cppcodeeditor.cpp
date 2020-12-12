@@ -34,14 +34,7 @@ int main() {
 		goto e;
 	}
 	while(x != "//exit") {
-		cc:
-		if (x == "") {
-			getline(cin, x);
-		}
-		else {
-			getline(cin, x);
-		}
-		goto cc;
+		getline(cin, x);
 	}
 	getch();
 	return 0;
