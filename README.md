@@ -13,6 +13,7 @@ int main() {
 cout << "Hello World";
 return 0;
 }
+//exit
 ```
 ___
 *P.S. The source code is also given.*
